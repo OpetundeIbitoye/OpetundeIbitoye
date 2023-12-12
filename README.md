@@ -9,11 +9,11 @@ Age is just a number, and there is no limit to learning and pursuing new interes
 
 **Background:**
 
-I am a passionate PhD student in Information Technology, driven by an insatiable curiosity for the intricate world of science and technology. My research interests span a diverse spectrum, from the transformative power of artificial intelligence to the unexplored realms of Android software development.
+I am a passionate PhD student in Information Technology, driven by an insatiable curiosity for the intricate world of science and technology. My research interests span a diverse spectrum, from the transformative power of artificial intelligence to the unexplored realms of software development.
 
 As a research assistant, I actively engage in conducting innovative research and crafting compelling academic papers. My academic pursuits are fueled by a deep desire to contribute to solutions that make a meaningful impact on the world and enhance the lives of others.
 
-My programming expertise extends to C++ and Python, languages that empower me to translate ideas into tangible creations. I am currently embarking on a journey to master Android software development, further expanding my skillset and enabling me to build engaging mobile applications.
+My programming expertise extends to C++ and Python, languages that empower me to translate ideas into tangible creations. I am currently embarking on a journey to master software development, further expanding my skillset and enabling me to build engaging mobile applications.
 
 Beyond academia and programming, I am an avid reader, constantly seeking knowledge and inspiration from the vast expanse of literature. My fascination with science and scientific explorations fuels my thirst for understanding the universe around us.
 
