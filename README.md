@@ -35,7 +35,7 @@ I invite you to explore my GitHub repositories, where you will discover a collec
 **Research Interests:**
 
 * Artificial intelligence
-* Android software development
+* Supply Chain
 * Human-Computer Interaction
 * Nanotechnology (emerging interest)
 
@@ -44,17 +44,3 @@ I invite you to explore my GitHub repositories, where you will discover a collec
 Mail: opetundeibitoye@gmail.com
 
 LinkedIn Profile URL: https://www.linkedin.com/in/opetundeibitoye/
-<!--
-**OpetundeIbitoye/OpetundeIbitoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
