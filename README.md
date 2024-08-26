@@ -26,7 +26,7 @@ I invite you to explore my GitHub repositories, where you will discover a collec
 * C++
 * Python
 * Artificial intelligence
-* Android software development
+* Software development
 * Academic writing
 * Research
 * Reading
