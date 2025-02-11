@@ -25,22 +25,20 @@ I invite you to explore my GitHub repositories, where you will discover a collec
 
 * C++
 * Python
-* Artificial intelligence
-* Software development
 * Academic writing
 * Research
 * Reading
-* Scientific exploration
 
 **Research Interests:**
 
 * Artificial intelligence
 * Supply Chain
 * Human-Computer Interaction
+* Autonomous Systems
 * Nanotechnology (emerging interest)
 
 **Contact:**
 
-Mail: opetundeibitoye@gmail.com
+Mail: dhorllyibi@gmail.com
 
 LinkedIn Profile URL: https://www.linkedin.com/in/opetundeibitoye/
